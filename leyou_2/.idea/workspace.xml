@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="182d981d-f97b-4b33-8a31-6dcb8b59ff0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/JavaWeb/14.会员版(2.0)-就业课(2.0)-HTML和CSS/31.HTML.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/JavaWeb/30.会员版(2.0)-就业课-Linux和Nginx/资料/FileZilla_3.7.3_win32/FileZilla-3.7.3/resources/cyril/16x16/showhidden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/JavaWeb/30.会员版(2.0)-就业课-Linux和Nginx/资料/FileZilla_3.7.3_win32/FileZilla-3.7.3/resources/lone/48x48/folderup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/JavaWeb/30.会员版(2.0)-就业课-Linux和Nginx/资料/FileZilla_3.7.3_win32/FileZilla-3.7.3/resources/tango/16x16/localtreeview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/JavaWeb/30.会员版(2.0)-就业课-Linux和Nginx/资料/实战文档/实战一：Linux下安装jdk1.7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/Ionicons/png/512/android-microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/Ionicons/png/512/arrow-graph-down-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/Ionicons/png/512/ios7-basketball-outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/Ionicons/png/512/ios7-bolt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/Ionicons/png/512/ios7-speedometer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/Ionicons/png/512/loop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/Ionicons/png/512/monitor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/Ionicons/png/512/social-yahoo-outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/Ionicons/src/heart-broken.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/Ionicons/src/ios-mic-outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/PACE/themes/blue/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs-latin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/bootstrap/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/lang/en-gb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/balloonpanel/skins/moono-lisa/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/indentblock/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/justify/lang/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/liststyle/lang/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/mathjax/dialogs/mathjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/mathjax/lang/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/placeholder/lang/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/preview/lang/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/selectall/icons/selectall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/selectall/lang/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/showblocks/lang/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/smiley/images/lightbulb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/ckeditor/plugins/smiley/lang/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/jquery-ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/jquery-ui/themes/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/jquery-ui/themes/vader/images/ui-bg_highlight-soft_60_dddddd_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/jquery-ui/ui/effect-blind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/jvectormap/tests/assets/us/jquery-jvectormap-data-us-mo-lcc-en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/moment/locale/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/bower_components/select2/src/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/build/bootstrap-less/normalize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/AdminLTE-master/plugins/iCheck/minimal/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/plugins/datatables/extensions/Responsive/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/plugins/datatables/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/plugins/datepicker/locales/bootstrap-datepicker.zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/plugins/iCheck/minimal/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/plugins/select2/i18n/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/release/dist/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/release/dist/plugins/ckeditor/lang/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/release/dist/plugins/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/release/dist/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/release/dist/plugins/datatables/extensions/ColReorder/examples/reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/release/dist/plugins/datepicker/locales/bootstrap-datepicker.bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/release/dist/plugins/daterangepicker/daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/AdminLTE资料/docafe-adminlte2-itcast-master/adminlte2-itcast/release/dist/plugins/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day01/资料/svn资料/小张/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/分页代码/heima_ssm/heima_ssm_web/src/main/webapp/img/avatar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/分页代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/lang/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/分页代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/分页代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/plugins/scayt/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/分页代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/datatables/extensions/ColReorder/examples/colvis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/分页代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/datatables/extensions/TableTools/examples/alter_buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/分页代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/flot/jquery.flot.threshold.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/未分页/heima_ssm/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/未分页/heima_ssm/heima_ssm_web/src/main/webapp/img/paypal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/未分页/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/lang/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/未分页/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/samples/old/sample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/未分页/heima_ssm/heima_ssm_web/src/main/webapp/plugins/datatables/extensions/Responsive/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/未分页/heima_ssm/heima_ssm_web/src/main/webapp/plugins/daterangepicker/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/未分页/heima_ssm/heima_ssm_web/src/main/webapp/plugins/flot/jquery.flot.crosshair.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day02/代码/未分页/heima_ssm/heima_ssm_web/src/main/webapp/plugins/select2/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day03/代码/heima_ssm/heima_ssm_domain/src/main/java/com/itheima/ssm/domain/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day03/代码/heima_ssm/heima_ssm_web/src/main/webapp/img/boxed-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day03/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day03/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day03/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day03/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/flot/jquery.flot.errorbars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day04/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/ckeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day04/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day04/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/datatables/extensions/TableTools/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day04/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/iCheck/square/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day04/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/treeTable/jquery.treetable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day05/代码/heima_ssm/heima_ssm_service/src/main/java/com/itheima/ssm/service/impl/PermissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day05/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day05/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day05/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.fla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day05/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/datatables/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day05/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/datepicker/locales/bootstrap-datepicker.nl-BE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/主流框架/36.会员版(2.0)-就业课(2.0)-SSM整合案例/day05/代码/heima_ssm/heima_ssm_web/src/main/webapp/plugins/datepicker/locales/bootstrap-datepicker.ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/微服务实战项目-学成在线/69.会员版(2.0)-就业课(2.0)-页面静态化-FreeMarker.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/流行框架/62.会员版(2.0)-就业课(2.0)-Spring Data JPA/Spring Data/双元视频/day02/03-源码/jpa-day2/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00 讲义+笔记+资料/流行框架/63.会员版(2.0)-就业课(2.0)-Spring Boot/SpringBoot基础/代码/springboot_quick/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BOS-parent/BOS-dao/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringProject/WebContent/WEB-INF/lib/struts2-spring-plugin-2.3.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB14_Response/WebContent/images/tree/minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB14_Response/WebContent/products/1/cs10007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB15_RequestServlet/WebContent/images/tree/joinbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB15_RequestServlet/WebContent/products/1/556d64fcNf28f90d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB16_CookieSession/WebContent/bank_img/nanjing.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB16_CookieSession/WebContent/image/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB16_CookieSession/WebContent/image/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB16_CookieSession/WebContent/image/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB16_CookieSession/WebContent/image/r___________renleipic_01/bigPic139f030b-d68b-41dd-be6d-b94cc568d3c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB16_CookieSession/WebContent/products/1/c_0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB17_JSP/WebContent/css/dtree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB17_JSP/WebContent/image/index_right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB17_JSP/WebContent/products/1/cs60005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB20/WebContent/products/1/cs70006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB35_Hibernate/WebContent/images/start.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB35_Hibernate/src/com/fang/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WEB35_Hibernate/src/com/fang/demo/HibernateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou_1/ly-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/leyou/item/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/item/pojo/Brand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/item/pojo/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/ly-item-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/ly-item-interface-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyoucode/leyou-manage-web/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyoucode/leyou-manage-web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyoucode/leyou-master/ly-item/ly-item-service/src/main/java/com/leyou/service/mapper/SpuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyoucode/leyou-portal/img/_/mobile06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyoucode/leyou/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyoucode/leyou/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_hello_world/target/maven_hello_world-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybos-parent/mydao-service/target/classes/META-INF/maven/com.fang/mydao-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_project - 副本/ssm_controller/target/ssm_controller/WEB-INF/lib/spring-beans-5.0.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web08_myJDBC/mysql-connector-java-5.1.7/src/com/mysql/jdbc/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web08_myJDBC/mysql-connector-java-5.1.7/src/com/mysql/jdbc/configs/clusterBase.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web18_ElJSTL/WebContent/images/review.gif" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="174" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Java_Demo\leyou\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.3.9\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1aeqL2CBqjeeoYj8DXgPKiw2aOP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_Demo\leyou\ly-item\ly-item-interface\src\main\java\com\leyou\item\pojo" />
+      <recent name="D:\Java_Demo\leyou\ly-common\src\main\java\com\leyou\common\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leyou.config" />
+      <recent name="com.leyou.common.vo" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.leyou.service.service" />
+      <recent name="com.leyou.service.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LyUploadApplication">
+    <configuration name="LyApiGateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyApiGateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyItemService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="ly-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyItemService" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyRegistry" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyRegistry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ly-upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.LyApiGateway" />
+      <item itemvalue="Spring Boot.LyItemService" />
+      <item itemvalue="Spring Boot.LyRegistry" />
+      <item itemvalue="Spring Boot.LyUploadApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LyUploadApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="182d981d-f97b-4b33-8a31-6dcb8b59ff0e" name="Default Changelist" comment="" />
+      <created>1587106347510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587106347510</updated>
+      <workItem from="1587106352850" duration="8185000" />
+      <workItem from="1587125426214" duration="6625000" />
+      <workItem from="1587137633819" duration="70000" />
+      <workItem from="1587137712995" duration="498000" />
+      <workItem from="1587138248600" duration="2264000" />
+      <workItem from="1587214855973" duration="2860000" />
+      <workItem from="1587472660523" duration="1245000" />
+      <workItem from="1587629354872" duration="678000" />
+      <workItem from="1587771031779" duration="5793000" />
+      <workItem from="1587788322179" duration="6740000" />
+      <workItem from="1587906231580" duration="3496000" />
+      <workItem from="1587909770864" duration="609000" />
+      <workItem from="1587910399256" duration="458000" />
+      <workItem from="1587911245586" duration="773000" />
+      <workItem from="1587995205152" duration="4122000" />
+      <workItem from="1588080082461" duration="5145000" />
+      <workItem from="1588319664999" duration="11589000" />
+      <workItem from="1588468946631" duration="1236000" />
+      <workItem from="1588483142623" duration="6340000" />
+      <workItem from="1588497865676" duration="3865000" />
+      <workItem from="1588519359715" duration="6150000" />
+      <workItem from="1588556729686" duration="1011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="41" key="#Deployment" timestamp="1588557151974">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="243" y="41" key="#Deployment/0.0.1304.768@0.0.1304.768" timestamp="1588557151974" />
+    <state x="244" y="41" key="#Project_Structure" timestamp="1588337173368">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="244" y="41" key="#Project_Structure/0.0.1304.768@0.0.1304.768" timestamp="1588337173368" />
+    <state x="212" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587138566718">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="212" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1304.768@0.0.1304.768" timestamp="1587138566717" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587115681380" />
+    <state x="457" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1588525189526">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="456" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1301.768@0.0.1301.768" timestamp="1588496073079" />
+    <state x="457" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1588525189526" />
+    <state x="250" y="308" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588084468026">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="250" y="308" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1304.768@0.0.1304.768" timestamp="1588084468026" />
+    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1588557854994">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1304.768@0.0.1304.768" timestamp="1588557854994" />
+    <state x="502" y="202" key="FileChooserDialogImpl" timestamp="1588339544468">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="502" y="202" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1588339544468" />
+    <state x="739" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587108394251" />
+    <state width="1260" height="162" key="GridCell.Tab.0.bottom" timestamp="1588525534200">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1257" height="175" key="GridCell.Tab.0.bottom/0.0.1301.768@0.0.1301.768" timestamp="1588497718047" />
+    <state width="1260" height="162" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1588525534200" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587116138471" />
+    <state width="1260" height="162" key="GridCell.Tab.0.center" timestamp="1588525534200">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1257" height="175" key="GridCell.Tab.0.center/0.0.1301.768@0.0.1301.768" timestamp="1588497718046" />
+    <state width="1260" height="162" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1588525534200" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587116138471" />
+    <state width="1260" height="162" key="GridCell.Tab.0.left" timestamp="1588525534200">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1257" height="175" key="GridCell.Tab.0.left/0.0.1301.768@0.0.1301.768" timestamp="1588497718028" />
+    <state width="1260" height="162" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1588525534200" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587116138471" />
+    <state width="1260" height="162" key="GridCell.Tab.0.right" timestamp="1588525534200">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1257" height="175" key="GridCell.Tab.0.right/0.0.1301.768@0.0.1301.768" timestamp="1588497718047" />
+    <state width="1260" height="162" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1588525534200" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587116138471" />
+    <state width="1260" height="162" key="GridCell.Tab.1.bottom" timestamp="1588525534200">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1257" height="175" key="GridCell.Tab.1.bottom/0.0.1301.768@0.0.1301.768" timestamp="1588497718048" />
+    <state width="1260" height="162" key="GridCell.Tab.1.bottom/0.0.1304.768@0.0.1304.768" timestamp="1588525534200" />
+    <state width="1876" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587116138472" />
+    <state width="1260" height="162" key="GridCell.Tab.1.center" timestamp="1588525534200">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1257" height="175" key="GridCell.Tab.1.center/0.0.1301.768@0.0.1301.768" timestamp="1588497718047" />
+    <state width="1260" height="162" key="GridCell.Tab.1.center/0.0.1304.768@0.0.1304.768" timestamp="1588525534200" />
+    <state width="1876" height="277" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587116138471" />
+    <state width="1260" height="162" key="GridCell.Tab.1.left" timestamp="1588525534200">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1257" height="175" key="GridCell.Tab.1.left/0.0.1301.768@0.0.1301.768" timestamp="1588497718047" />
+    <state width="1260" height="162" key="GridCell.Tab.1.left/0.0.1304.768@0.0.1304.768" timestamp="1588525534200" />
+    <state width="1876" height="277" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587116138471" />
+    <state width="1260" height="162" key="GridCell.Tab.1.right" timestamp="1588525534200">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1257" height="175" key="GridCell.Tab.1.right/0.0.1301.768@0.0.1301.768" timestamp="1588497718047" />
+    <state width="1260" height="162" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1588525534200" />
+    <state width="1876" height="277" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587116138471" />
+    <state width="1260" height="257" key="GridCell.Tab.2.bottom" timestamp="1588349160326">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="257" key="GridCell.Tab.2.bottom/0.0.1304.768@0.0.1304.768" timestamp="1588349160326" />
+    <state width="1260" height="257" key="GridCell.Tab.2.center" timestamp="1588349160326">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="257" key="GridCell.Tab.2.center/0.0.1304.768@0.0.1304.768" timestamp="1588349160326" />
+    <state width="1260" height="257" key="GridCell.Tab.2.left" timestamp="1588349160326">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="257" key="GridCell.Tab.2.left/0.0.1304.768@0.0.1304.768" timestamp="1588349160326" />
+    <state width="1260" height="257" key="GridCell.Tab.2.right" timestamp="1588349160326">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1260" height="257" key="GridCell.Tab.2.right/0.0.1304.768@0.0.1304.768" timestamp="1588349160326" />
+    <state x="182" y="38" key="Maven.ArtifactSearchDialog" timestamp="1587135116436">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="182" y="38" key="Maven.ArtifactSearchDialog/0.0.1304.768@0.0.1304.768" timestamp="1587135116436" />
+    <state x="264" y="0" key="SettingsEditor" timestamp="1588557864809">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="264" y="0" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1588557864809" />
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587116079706" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1587911249756">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1587911249756" />
+    <state x="42" y="55" key="new project wizard" timestamp="1588494723574">
+      <screen x="0" y="0" width="1301" height="768" />
+    </state>
+    <state x="42" y="55" key="new project wizard/0.0.1301.768@0.0.1301.768" timestamp="1588494723574" />
+    <state x="45" y="55" key="new project wizard/0.0.1304.768@0.0.1304.768" timestamp="1587131023732" />
+    <state x="330" y="213" key="new project wizard/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587108471604" />
+    <state x="394" y="10" key="refactoring.ChangeSignatureDialog" timestamp="1588525376164">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="394" y="10" key="refactoring.ChangeSignatureDialog/0.0.1304.768@0.0.1304.768" timestamp="1588525376164" />
+    <state x="423" y="166" width="672" height="501" key="search.everywhere.popup" timestamp="1588325949967">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="423" y="166" width="672" height="501" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1588325949967" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587108256460" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="page1" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leyou_2$LyItemService.ic" NAME="LyItemService Coverage Results" MODIFIED="1588339922686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

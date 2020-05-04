@@ -1,0 +1,44 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: item-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/heima
+    username: root
+    password: root
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://127.0.0.1:10086/eureka
+#  instance:
+#    lease-renewal-interval-in-seconds: 5 # 每隔5秒发送一次心跳
+#    lease-expiration-duration-in-seconds: 10 # 10秒不发送就过期
+#    prefer-ip-address: true # 返回eureka的是ip，而不是主机名
+#    ip-address: 127.0.0.1 # 设置返回的ip是啥
+#    instance-id: ${spring.application.name}:${server.port}
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+#pagehelper:
+#  helperDialect: mysql
+#  reasonable: true
+#  supportMethodsArguments: true
+#  params: count=countSql
+#pagehelper:
+#  helper-dialect: mysql
+#  reasonable: false
+#  support-methods-arguments: false
+#  page-size-zero: true
+#  offset-as-page-num: false
+#  row-bounds-with-count: false
+
+#  params: count=countSql
