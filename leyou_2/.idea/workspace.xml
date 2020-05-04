@@ -321,7 +321,7 @@
       <workItem from="1588483142623" duration="6340000" />
       <workItem from="1588497865676" duration="3865000" />
       <workItem from="1588519359715" duration="6150000" />
-      <workItem from="1588556729686" duration="1702000" />
+      <workItem from="1588556729686" duration="1980000" />
     </task>
     <task id="LOCAL-00001" summary="完成图片上传">
       <created>1588558048785</created>
@@ -330,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588558048785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完成图片上传">
+      <created>1588558446093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588558446093</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,6 +492,10 @@
     </state>
     <state x="264" y="0" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1588558256760" />
     <state x="461" y="151" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1587116079706" />
+    <state x="244" y="116" key="Vcs.Push.Dialog.v2" timestamp="1588558823819">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="244" y="116" key="Vcs.Push.Dialog.v2/0.0.1304.768@0.0.1304.768" timestamp="1588558823819" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1587911249756">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
