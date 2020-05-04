@@ -321,7 +321,7 @@
       <workItem from="1588483142623" duration="6340000" />
       <workItem from="1588497865676" duration="3865000" />
       <workItem from="1588519359715" duration="6150000" />
-      <workItem from="1588556729686" duration="1980000" />
+      <workItem from="1588556729686" duration="2151000" />
     </task>
     <task id="LOCAL-00001" summary="完成图片上传">
       <created>1588558048785</created>
@@ -337,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588558446093</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完成图片上传1">
+      <created>1588558849943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588558849943</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,13 +388,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成图片上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成图片上传" />
+    <MESSAGE value="完成图片上传1" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成图片上传1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="243" y="41" key="#Deployment" timestamp="1588558426162">
+    <state x="243" y="41" key="#Deployment" timestamp="1588558889733">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="243" y="41" key="#Deployment/0.0.1304.768@0.0.1304.768" timestamp="1588558426162" />
+    <state x="243" y="41" key="#Deployment/0.0.1304.768@0.0.1304.768" timestamp="1588558889733" />
     <state x="244" y="41" key="#Notifications" timestamp="1588558228108">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
@@ -410,10 +418,10 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="250" y="308" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1304.768@0.0.1304.768" timestamp="1588084468026" />
-    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1588558441159">
+    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1588558891926">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1304.768@0.0.1304.768" timestamp="1588558441159" />
+    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1304.768@0.0.1304.768" timestamp="1588558891926" />
     <state x="502" y="202" key="FileChooserDialogImpl" timestamp="1588558205820">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
